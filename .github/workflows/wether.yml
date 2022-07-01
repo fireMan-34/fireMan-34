@@ -1,8 +1,9 @@
 name: 'weather every day'
 on:
+  push:
   schedule:
-  # 安排工作流程在特定的 UTC 时间运行。
-    - cron: '0 22 * * *'
+      # 安排工作流程在特定的 UTC 时间运行。
+      - cron: '0 22 * * *'
     
 runs-on: ubuntu-latest
 steps:
@@ -14,3 +15,5 @@ steps:
     with: 
       node-version: 16.x
       cache: pnpm
+  - name: 'generate README.md'
+    run: pnpm runIndex
