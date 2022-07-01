@@ -5,15 +5,19 @@ on:
       # 安排工作流程在特定的 UTC 时间运行。
       - cron: '0 22 * * *'
     
-runs-on: ubuntu-latest
-steps:
-  - name: 'Checkout'
-    uses: actions/checkout@v3
+jobs:
+  build:    
+    runs-on: ubuntu-latest
 
-  - name: 'setup-node'
-    uses: actions/setup-node@v3
-    with: 
-      node-version: 16.x
-      cache: pnpm
-  - name: 'generate README.md'
-    run: pnpm runIndex
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@v3
+    
+      - name: 'Setup-node'
+        uses: actions/setup-node@v3
+        with: 
+          node-version: 16.x
+          cache: npm
+      - run: npm install --frozen-lockfile
+      - name: 'Generate README.md'
+        run: npm runIndex
