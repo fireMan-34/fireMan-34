@@ -20,4 +20,4 @@ jobs:
           cache: npm
       - run: npm ci
       - name: 'Generate README.md'
-        run: npm runIndex
+        run: npm run runIndex
