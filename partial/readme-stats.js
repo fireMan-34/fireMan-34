@@ -1,0 +1,1 @@
+module.exports = `![https://github-readme-stats.vercel.app/api?username=fireMan-34&theme-synthwave](https://github-readme-stats.vercel.app/api?username=fireMan-34&theme=synthwave)`;

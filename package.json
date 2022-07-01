@@ -1,0 +1,15 @@
+{
+  "name": "fireMan-34",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "runIndex": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fireMan-34"
+  ],
+  "author": "fireMan-34",
+  "license": "ISC"
+}

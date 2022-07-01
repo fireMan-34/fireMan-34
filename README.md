@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![https://github-readme-stats.vercel.app/api?username=fireMan-34&theme-synthwave](https://github-readme-stats.vercel.app/api?username=fireMan-34&theme=synthwave)
+
+string

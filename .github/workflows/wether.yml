@@ -1,0 +1,16 @@
+name: 'weather every day'
+on:
+  schedule:
+  # 安排工作流程在特定的 UTC 时间运行。
+    - cron: '0 22 * * *'
+    
+runs-on: ubuntu-latest
+steps:
+  - name: 'Checkout'
+    uses: actions/checkout@v3
+
+  - name: 'setup-node'
+    uses: actions/setup-node@v3
+    with: 
+      node-version: 16.x
+      cache: pnpm
