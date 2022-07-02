@@ -1,30 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
-<style>.weather_iframe{width:100%;height:600px;}</style>
-</head>
-<body>
-### Hi there 👋
-**fireMan-34/fireMan-34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+# [Hello, I am fireMan-34](https://fireman-34.github.io/)
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+# Repo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fireMan-34&repo=hexo-filter-markdown-auto-indent&theme=synthwave)](https://github.com/fireMan-34/hexo-filter-markdown-auto-indent)
+
+# Stats
 ![https://github-readme-stats.vercel.app/api?username=fireMan-34&theme-synthwave](https://github-readme-stats.vercel.app/api?username=fireMan-34&theme=synthwave)
-<iframe class="weather_iframe" src="https://wttr.in/Shantou?M"></iframe>
-<script></script>
 
-</body>
-</html>
+# Weaktime
+
+- [![wakatime](https://wakatime.com/badge/user/a34ca63b-ead6-4b13-8b8f-ca28ee4db1bb/project/4791a7b9-444a-4381-807b-bbaea3a58cad.svg)](https://wakatime.com/badge/user/a34ca63b-ead6-4b13-8b8f-ca28ee4db1bb/project/4791a7b9-444a-4381-807b-bbaea3a58cad) `fireMan-34`
+
+- [![wakatime](https://wakatime.com/badge/user/a34ca63b-ead6-4b13-8b8f-ca28ee4db1bb/project/d20969b8-965a-48f6-b080-e49a2ac5e5b8.svg)](https://wakatime.com/badge/user/a34ca63b-ead6-4b13-8b8f-ca28ee4db1bb/project/d20969b8-965a-48f6-b080-e49a2ac5e5b8) `project`
+
