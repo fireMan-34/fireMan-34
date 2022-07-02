@@ -17,5 +17,5 @@
 
 # WorkTime
 
-<figure><embed src="https://wakatime.com/share/@a34ca63b-ead6-4b13-8b8f-ca28ee4db1bb/3b1bfc70-e366-407b-948a-67a266f07aef.svg"></embed></figure>
+![https://wakatime.com/share/@a34ca63b-ead6-4b13-8b8f-ca28ee4db1bb/b3c82fc8-58cd-424c-8a6e-e0614f49b981.svg](https://wakatime.com/share/@a34ca63b-ead6-4b13-8b8f-ca28ee4db1bb/b3c82fc8-58cd-424c-8a6e-e0614f49b981.svg)
 
