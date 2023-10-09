@@ -7,6 +7,10 @@
 # Stats
 ![https://github-readme-stats.vercel.app/api?username=fireMan-34&theme-synthwave](https://github-readme-stats.vercel.app/api?username=fireMan-34&theme=synthwave)
 
+# Usage
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireMan-34&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+  
+
 # Weaktime
 
 - [![wakatime](https://wakatime.com/badge/user/a34ca63b-ead6-4b13-8b8f-ca28ee4db1bb/project/4791a7b9-444a-4381-807b-bbaea3a58cad.svg)](https://wakatime.com/badge/user/a34ca63b-ead6-4b13-8b8f-ca28ee4db1bb/project/4791a7b9-444a-4381-807b-bbaea3a58cad) `fireMan-34`
