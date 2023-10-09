@@ -8,8 +8,9 @@
 ![https://github-readme-stats.vercel.app/api?username=fireMan-34&theme-synthwave](https://github-readme-stats.vercel.app/api?username=fireMan-34&theme=synthwave)
 
 # Usage
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireMan-34&theme=react&hide=html,css,postscript,tex,C++,cmake&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireMan-34&theme=react&hide=html,css,postscript,tex,C++,cmake&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
   
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=fireMan-34&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true"/>
 
 # Weaktime
 
